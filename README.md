@@ -7,13 +7,13 @@
 
 - export ebook annotations for Google Playbook through [Google Takeout](https://takeout.google.com)
 - select json format
-- download the zip file for exported ebook annotations
+- download the exported annotations zip file
 
 ## extract annotations to markdown
 
 - set the following params in `playbook.ipynb`:
-  - vault: folder path of exported markdown files
-  - takeout_zip: path of the zip file downloaded from Google Takeout
+  - `vault`: folder path of exported markdown files
+  - `takeout_zip`: path of the zip file downloaded from Google Takeout
 
 - run all cells of `playbook.ipynb`
 - markdown files should be generated inside the vault folder
