@@ -16,7 +16,7 @@
 ## Prepare Your Runtime Environment
 
 - run online with [![Binder][binder]][binder-ipynb]
-- or locally with python >= 3.9, no special dependency required
+- or locally with python >= 3.10, no special dependency required
 
 ## Extract Annotations to Markdown
 
