@@ -27,5 +27,9 @@
 - run all cells of `playbook.ipynb`
 - markdown files should be generated inside the vault folder
 
+## Need Help?
+
+Open a [github issue](https://github.com/hoishing/playbook2md/issues) or ping me on [Twitter](https://twitter.com/hoishing) ![](https://api.iconify.design/logos/twitter.svg?width=20)
+
 [binder]: https://mybinder.org/badge_logo.svg
 [binder-ipynb]: https://mybinder.org/v2/gh/hoishing/playbook2md/HEAD?labpath=playbook.ipynb
