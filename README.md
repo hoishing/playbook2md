@@ -5,10 +5,13 @@
 - convert ebook annotations(highlights and custom notes) of Google Playbook to markdown files
 - one markdown file per book
 
+🔗 [source code]
+
 [mit]: https://img.shields.io/github/license/hoishing/selenium-crawler
 [black-badge]: https://img.shields.io/badge/code%20style-black-000000.svg
 [black-url]: https://github.com/psf/black
 [py-badge]: https://img.shields.io/badge/python-3.10%20%7C%203.11-blue
+[source code]: https://github.com/hoishing/playbook2md
 
 ## Motivation
 
